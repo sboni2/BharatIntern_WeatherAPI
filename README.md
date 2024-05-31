@@ -7,7 +7,7 @@ I used API keys from this [link](https://openweathermap.org/)
 
 Github Profile [link](https://github.com/sboni2/BharatIntern_WeatherAPI.git)
 
-![app](assets/weatherApp1.png) 
+![app](assets/weatherApp_1.png) 
 ![app](assets/weatherApp2.png)
 
 # Key Features:
