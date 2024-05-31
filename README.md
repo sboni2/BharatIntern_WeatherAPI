@@ -1,11 +1,11 @@
 # BharatIntern_WeatherApp
 Welcome to the Weather App project, a dynamic web application designed to provide real-time weather information at your fingertips. This project was developed as part of the internship at BharatIntern, employing a tech stack comprising HTML, CSS, Bootstrap, and JavaScript.
 
-Weather App Live Demo [link here]()
+Weather App Live Demo [link here](https://github.com/sboni2/BharatIntern_WeatherAPI.git)
 
-I used API keys from this [link]()
+I used API keys from this [link](https://openweathermap.org/)
 
-Github Profile [link]()
+Github Profile [link](https://github.com/sboni2/BharatIntern_WeatherAPI.git)
 
 ![app](assets/weatherApp1.png) 
 ![app](assets/weatherApp2.png)
