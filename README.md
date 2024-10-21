@@ -4,7 +4,7 @@ Welcome to the Weather App project, a dynamic web application designed to provid
 
 I used API keys from this [link](https://openweathermap.org/)
 
-Github Profile [link](https://github.com/sboni2/BharatIntern_WeatherAPI.git)
+Github Profile [link](https://github.com/sboni2/WeatherAPI.git)
 
 ![app](assets/weatherApp_1.png) 
 ![app](assets/weatherApp2.png)
